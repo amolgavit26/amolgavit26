@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGmjnfySgRlQA/profile-displaybackgroundimage-shrink_350_1400/0/1674734889130?e=1687996800&v=beta&t=swmt6eAbJyY1pcsOQxXwhMOAn6zaZEcucUUzzox_aNs)](https://amolgavit26.io)
 <h1 align="center">Welcom to my profile👋 It's me Amol Gavit, Thank you for visiting.</h1>
-<h3 align="center">I'm a aspirent data scientist from Mumbai.</h3>
+<h3 align="center">I'm an aspirent data scientist from Mumbai.</h3>
 <img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolgavit26&label=Profile%20views&color=0e75b6&style=flat" alt="amolgavit26" /> </p>
