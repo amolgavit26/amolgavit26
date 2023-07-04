@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGmjnfySgRlQA/profile-displaybackgroundimage-shrink_350_1400/0/1674734889130?e=1687996800&v=beta&t=swmt6eAbJyY1pcsOQxXwhMOAn6zaZEcucUUzzox_aNs)](https://amolgavit26.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQGmjnfySgRlQA/profile-displaybackgroundimage-shrink_350_1400/0/1674734889130?e=1694044800&v=beta&t=j1G9gkmR_vAPOYNAtp7N_b-VsfMYdfxZGhL7xBBcShw)](https://amolgavit26.io)
 <h1 align="center">Welcome to my profile👋 It's me Amol Gavit, Thank you for visiting.</h1>
 <h3 align="center">I'm an aspirent data scientist from Mumbai.</h3>
 <img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif">
