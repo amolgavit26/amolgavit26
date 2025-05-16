@@ -1,13 +1,41 @@
 ![MasterHead](./Banner.png)
+
+---
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;FullStack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+</h3>
+
 <h1 align="center">Welcome to my profile👋 It's me Amol Gavit, Thank you for visiting.</h1>
+
+---
 <h3 align="center">I'm an aspirent software developer from Mumbai.</h3>
 <img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolgavit26&label=Profile%20views&color=0e75b6&style=flat" alt="amolgavit26" /> </p>
 
 - 🌱 I’m about to complete my **PG Diploma In Advanced Computing**
 
-- 💬 Ask me about **Javs, Linux, Python, Power BI, SQL**
+<table>
+  <tr>
+    <td colspan="2"><strong>💬 Ask me about</strong></td>
+  </tr>
+  <tr>
+    <td>- Java</td>
+    <td>- Python</td>
+  </tr>
+  <tr>
+    <td>- MERN Stack</td>
+    <td>- SQL</td>
+  </tr>
+  <tr>
+    <td>- PowerBI</td>
+    <td>- Linux</td>
+  </tr>
+</table>
+
+
 
 - 📫 How to reach me **amolgavit158121@gmail.com**
 
@@ -36,3 +64,18 @@
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amolgavit26&theme=tokyonight" />
+</p>
+
+
+---
+
+<p align="center">
+  🚀 Thanks for stopping by! Let’s build something amazing together.
+</p>
